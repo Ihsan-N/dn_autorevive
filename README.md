@@ -26,3 +26,6 @@ ensure dn_autorevive
 ```
 start your server!
 
+# SUPPORT
+
+[DISCORD](https://discord.gg/eqsZkck8Wc)
